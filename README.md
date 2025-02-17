@@ -22,4 +22,4 @@ I love building interactive web interfaces and am constantly learning new techno
 </a>
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/MRafiWijaya/MRafiWijaya/blob/output/github-snake-dark.svg)
