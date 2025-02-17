@@ -21,3 +21,5 @@ I love building interactive web interfaces and am constantly learning new techno
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MRafiWijaya&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
